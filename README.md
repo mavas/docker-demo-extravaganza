@@ -7,9 +7,9 @@ docker pull apache/spark
 
 ## Items
 
-Apache Spark
-Apache Hadoop
-Apache Kafka
-Redis
-RabbitMQ
-Apache Beam
+- Apache Spark
+- Apache Hadoop
+- Apache Kafka
+- Redis
+- RabbitMQ
+- Apache Beam
